@@ -1,0 +1,7 @@
+build/
+public/
+**/*.min.js
+*.config.js
+.*lintrc.js
+
+src/serviceWorker.ts
